@@ -16,7 +16,7 @@ Pre  operation  before the project ask
 - jieba_fast 0.39
 
 2.please download the Doc2vec models through the   
-url：https://pan.baidu.com/s/1RLrsaxfyZyxm0vRhDNQ-gA password：4rNF    
+链接：https://pan.baidu.com/s/13E9iyWrkEMjWDsmEZTFkWA 提取码：00nC    
 And please place these models in the "model" folder
 
 ## The step
