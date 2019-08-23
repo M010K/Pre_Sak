@@ -1,0 +1,1 @@
+{"vector_size": 400, "min_count": 5, "window": 10, "negative": 5, "sample": 1e-05, "alpha": 0.05, "0.05": 0.05}{"Accuracy": 0.702928870292887, "Recall_Score": 0.717948717948718, "F1_Score": 0.7103594080338266}
