@@ -2,7 +2,7 @@
 Pre  operation  before the project ask
 
 ## Guide
-*Before you use this project, please read the introduction below.*
+** Before you use this project, please read the introduction below. **
 
 ## Installation requirements
 1.Please be sure that all these packages have been installed.
