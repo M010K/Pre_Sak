@@ -15,8 +15,8 @@ Pre  operation  before the project ask
 - aiohttp 3.5.4
 - jieba_fast 0.39
 
-2.please download the Doc2vec models through the 
-url：https://pan.baidu.com/s/1RLrsaxfyZyxm0vRhDNQ-gA password：4rNF 
+2.please download the Doc2vec models through the   
+url：https://pan.baidu.com/s/1RLrsaxfyZyxm0vRhDNQ-gA password：4rNF    
 And please place these models in the "model" folder
 
 ## The step
