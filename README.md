@@ -17,6 +17,7 @@ Pre  operation  before the project ask
 
 2.please download the Doc2vec models through the   
 url:https://pan.baidu.com/s/1No4nOmv4WNZWTmThtQR8mg  password:3hrf   
+(if the url is not valid,please contact us)    
 And please place these models in the "model" folder
 
 ## The step
