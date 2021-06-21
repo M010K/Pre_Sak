@@ -1,5 +1,5 @@
 # Pre_Sak
-Pre  operation  before the project ask
+Pre  operation  before the project sak
 
 ## Guide
 **Before you use this project, please read the introduction below.**
